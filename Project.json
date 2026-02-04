@@ -1,0 +1,19 @@
+{
+  "NAME": {
+    "EN": "The Gaming Room",
+    "JA": "The Gaming Room (※ クライアント名のため英語表記のままが自然です)"
+  },
+  "DESCRIPTION": {
+    "EN": "A sample client, The Gaming Room, requested an application named Draw it or Lose it for android systmes. The application is a team game loosely similar to the 1980s television show Win, Lost, or Draw.",
+    "JA": "サンプルクライアントである The Gaming Room から、Android 向けアプリケーション「Draw It or Lose It」の開発依頼がありました。本アプリケーションは、1980年代のテレビ番組「Win, Lose, or Draw」を参考にした、チーム対戦型のゲームです。"
+  },
+  "DATE_OF_LAST_EDIT": {
+    "DAY": 19,
+    "MONTH": 12,
+    "YEAR": 2022
+  },
+  "PROJECT_LANGUAGES": [{
+    "EN": "Java",
+    "JA": :Java"
+  }]
+}
